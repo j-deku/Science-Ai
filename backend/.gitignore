@@ -1,0 +1,8 @@
+#logs
+
+*.log
+.env
+venv
+dist
+dist-ssr
+*.local
